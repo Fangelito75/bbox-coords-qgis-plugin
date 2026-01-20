@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BBox Coords: QGIS Plugin for Bounding Box Visualization"
+type: software
+version: 1.0.0
+date-released: 2026-01-01
+license: GPL-3.0-or-later
+
+authors:
+  - family-names: González
+    given-names: Félix
+    affiliation: Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)
+  - family-names: González
+    given-names: José Antonio
+    affiliation: Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)
+  - family-names: De la Rosa
+    given-names: José María
+    affiliation: Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)
+
+abstract: >
+  BBox Coords is a QGIS plugin that draws the bounding box of a selected
+  feature and displays its coordinates directly on the map canvas using
+  the layer coordinate reference system (CRS), with configurable styling
+  options for both the bounding box and the coordinate text.
+
+keywords:
+  - QGIS
+  - GIS
+  - bounding box
+  - geospatial analysis
+  - cartography
+  - spatial data
