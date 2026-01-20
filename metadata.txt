@@ -1,0 +1,13 @@
+
+[general]
+name=BBox Coords
+qgisMinimumVersion=3.16
+description=Al seleccionar una geometría, dibuja su bounding box y muestra coordenadas en el CRS de la capa (heredado).
+version=1.0.3
+author=Félix González, José Antonio González, José María De la Rosa
+about=IRNAS-CSIC. Plugin para mostrar bounding box y coordenadas de la geometría seleccionada, con estilo configurable.
+icon=icon.png
+category=Vector
+
+[experimental]
+experimental=false
