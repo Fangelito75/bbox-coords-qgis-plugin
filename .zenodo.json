@@ -1,0 +1,27 @@
+{
+  "title": "BBox Coords (QGIS Plugin)",
+  "description": "QGIS plugin that draws the bounding box of the selected feature and displays its coordinates using the layer CRS, with configurable styling options.",
+  "creators": [
+    {
+      "name": "González, Félix",
+      "affiliation": "Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)"
+    },
+    {
+      "name": "González, José Antonio",
+      "affiliation": "Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)"
+    },
+    {
+      "name": "De la Rosa, José María",
+      "affiliation": "Institute of Natural Resources and Agrobiology of Seville (IRNAS-CSIC)"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "QGIS",
+    "GIS",
+    "bounding box",
+    "geospatial analysis",
+    "cartography",
+    "spatial data"
+  ]
+}
